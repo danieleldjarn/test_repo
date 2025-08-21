@@ -36,7 +36,7 @@ matplotlib==3.10.5
     #   seaborn
 mypy-extensions==1.1.0
     # via black
-numpy==2.3.2
+numpy==2.2.6
     # via
     #   contourpy
     #   matplotlib
